@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #d9e6f7;
+  font-family: "Roboto", sans-serif;
+}
+
+.navbar {
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.menu ul {
+  list-style-type: none;
+  display: flex;
+
+}
+
+
+
+
+
+
+
+.content {
+  margin-top: 40px;
+  display: flex;
+  align-items: start;
+  justify-content: space-around;
+}
+
+.container-background {
+  background-color: #ffffff;
+  border-radius: 15px;
+  padding: 20px;
+}
+
+.profile {
+  display: flex;
+}
